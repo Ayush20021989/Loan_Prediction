@@ -1,1 +1,2 @@
 # Loan_Prediction
+Loan Prediction Using AutoML is a project that automates the loan approval process and compares the performance of four classification algorithms: K-Nearest Neighbors, Naive Bayes, Support Vector Machine, and Logistic Regression. The resulting analysis offered insights into the strengths and weaknesses of KNN, Naive Bayes, SVM, and Logistic Regression for loan prediction, providing accuracy values for each model and presenting their respective confusion matrices.
